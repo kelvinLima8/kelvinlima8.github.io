@@ -1,5 +1,6 @@
 * {
     font-family: Mochiy pop uno, sans-serif;
+    col or : white;
 }
 
 h1 {
@@ -20,6 +21,19 @@ h3 {
 }
 
 * {
-    background- image:url(./img/mac\ miller\ FACES.jpg) ;
+    background- image:url(./img/1200px-Color_negro.webp) ;
 
+
+}
+
+.container {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
 }
