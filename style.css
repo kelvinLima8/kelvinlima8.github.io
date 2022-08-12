@@ -4,7 +4,7 @@
 }
 
 h1 {
-    color:darkcyan;
+    color:black;
     text-shadow: 4px 5px 6px;
     
 }
@@ -36,4 +36,15 @@ h3 {
 
 .right {
     float: right ;
+}
+
+body {
+    margin: 1rem 0; 
+
+}
+
+h1 {
+    background-color: #364552;
+    font-size: 4rem;
+    padding: 2rem 0;
 }
