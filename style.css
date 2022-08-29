@@ -68,4 +68,8 @@ a:hover {
     background-color: transparent;
     border: 2px solid rgb(127, 206, 255);
     color: rgb(127, 206, 255);
+} 
+
+  {
+    border: 2px solid red;
 }

@@ -1,0 +1,25 @@
+
+.caja {
+    border: 1px solid rgb(87, 84, 84);
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    width: 300px;
+    height: 300px;  
+    line-height: 120px;
+    text-align: center;
+    margin: 5px;
+}
+
+.flex-container {
+    display: flex;
+    border: 1px solid black;
+    flex-direction: column;
+    padding: 20px;
+    background-color: ;
+    justify-content: ;
+    width: ;
+    margin: ;
+
+}
+ 
