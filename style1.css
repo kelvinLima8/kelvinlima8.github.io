@@ -9,6 +9,7 @@
     line-height: 120px;
     text-align: center;
     margin: 5px;
+    float: left;
 }
 
 .flex-container {
@@ -19,7 +20,15 @@
     background-color: ;
     justify-content: ;
     width: ;
-    margin: ;
+    margin: 5px;
 
 }
+
+.right {
+    float: right;
+}
  
+.left {
+    float: left;
+} 
+
