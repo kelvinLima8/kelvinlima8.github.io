@@ -1,4 +1,12 @@
 
+h1 {
+    color: aliceblue;
+    background-color: black;
+    margin: 10px;
+    padding: 10px;
+    text-shadow: 1px 2px 3px;
+}
+
 .caja {
     border: 1px solid rgb(87, 84, 84);
     background-color: white;
