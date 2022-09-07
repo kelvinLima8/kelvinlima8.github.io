@@ -78,3 +78,15 @@ a:hover {
 .flex-container {
     border: 2px solid black;
 }
+ 
+.caja {
+    border: 1px solid rgb(87, 84, 84);
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    wid th: 300px;
+    hei ght: 300px;  
+    li ne-height: 120px;
+    te xt-align: center;
+    mar gin: 5px;
+    flo at: left;
