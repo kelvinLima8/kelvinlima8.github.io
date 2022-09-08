@@ -12,10 +12,10 @@ h1 {
     background-color: white;
     color: black;
     font-weight: bold;
-    width: 300px;
-    height: 300px;  
+    wid th: 300px;
+    hei ght: 300px;  
     line-height: 120px;
-    text-align: center;
+    text-align: ;
     margin: 5px;
     float: left;
 }
@@ -24,12 +24,13 @@ h1 {
     display: flex;
     border: 1px solid black;
     flex-direction: column;
-    padding: 20px;
+    padding: 5px;
     background-color: ;
-    justify-content: ;
+    justify-content:;
     width: ;
     margin: 5px;
-
+    text-align: ;
+    
 }
 
 .right {
@@ -44,7 +45,14 @@ button {
     background-color: black;
     padding: 5px;
     margin: 5px;
+    text-decoration: none;
 
+}
+
+a:hover {
+    background-color: transparent;
+    color: blanchedalmond;
+    text-decoration: none;
 }
 
 .spotify {
@@ -53,5 +61,8 @@ button {
 }
 
 a {
-    width: 200px;
+    width: 100px;
+}
+p {
+    text-align:left;
 }
